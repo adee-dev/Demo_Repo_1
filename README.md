@@ -10,3 +10,9 @@ float
 int:
 1,2,3,4,5
 done
+
+Char
+sting is collection of chars
+ex-'Hello world'
+    '1'
+    
