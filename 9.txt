@@ -7,6 +7,7 @@ sa
 sa
 444444444444444444444444444444444444444
 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+<<<<<<< HEAD
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 
@@ -29,3 +30,14 @@ s
 1
 1
 eeeeeeee
+=======
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+1111111111111111
+11111111111111111
+1111111111111111
+1111111111111111
+111111111111111
+11111111111111111111111
+11111111111111111
+eeeeeeeeeee
+>>>>>>> dev
